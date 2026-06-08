@@ -95,7 +95,7 @@ Version      : 1.0
 	}); 	
 	
 	/*START WOW ANIMATION JS*/
-	  new WOW().init();	
+	//   new WOW().init();	
 	/*END WOW ANIMATION JS*/	
 				
 })(jQuery);
